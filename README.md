@@ -3,7 +3,7 @@
 
 <h2>Contents</h2>
 <ul>
-  <li><strong>Source code</strong> — <code>Mykolas_Savickas_M4S1.py</code></li>
+  <li><strong>Source code</strong> — <code>chess_question.py</code></li>
   <li><strong>Example</strong> — transcript of a typical session of the program (see below)</li>
 </ul>
 
@@ -19,7 +19,7 @@
   <li>Install Python 3.10+</li>
   <li>Download Mykolas_Savickas_M4S1.py and open a terminal in the project root folder</li>
   <li>Run the app with this command:
-    <pre><code>python Mykolas_Savickas_M4S1.py</code></pre>
+    <pre><code>python chess_question.py</code></pre>
   </li>
 </ol>
 
