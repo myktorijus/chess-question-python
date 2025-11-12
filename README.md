@@ -17,7 +17,7 @@
 <h2>How to Run</h2>
 <ol>
   <li>Install Python 3.10+</li>
-  <li>Download Mykolas_Savickas_M4S1.py and open a terminal in the project root folder</li>
+  <li>Download chess_question.py and open a terminal in the project root folder</li>
   <li>Run the app with this command:
     <pre><code>python chess_question.py</code></pre>
   </li>
